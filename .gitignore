@@ -1,0 +1,81 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+bin/
+tmp/
+
+# Maven build output
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Build artifacts
+build/
+out/
+dist/
+
+# Dependency directories (if not using Maven)
+lib/
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+logs/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Server-specific files
+.servers/
+
+# Compiled class files
+*.class
+
+# Package files
+*.war
+*.ear
+
+# Other generated files
+.factorypath
+.springBeans
+
+# Node.js dependencies (if any)
+node_modules/
+
+# Frontend build directories (if any)
+dist-web/
+resources/dist/
+
+# Environment files
+.env
+*.env
+
+# Backup files
+*.bak
+*.backup
+
+# Temp files
+*.tmp
+*.temp
+
+# Version control
+/.vscode/
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# Eclipse metadata
+.metadata/
