@@ -18,12 +18,6 @@ build/
 out/
 dist/
 
-# Dependency directories (if not using Maven)
-lib/
-*.jar
-*.war
-*.ear
-
 # Log files
 *.log
 logs/
